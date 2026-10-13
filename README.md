@@ -110,4 +110,5 @@ Al ejecutar el programa, la caja registradora cierra la venta y la impresora fis
 
 ## Ejecución
 
+<img width="487" height="393" alt="image" src="https://github.com/user-attachments/assets/2f9735cf-3637-4789-ae41-334e86b30a6f" />
 
